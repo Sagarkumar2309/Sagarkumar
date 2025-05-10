@@ -34,11 +34,7 @@
 
 <br>
 
-<p align="center"> 
-  
-## Welcome to My GitHub Playground! 🌟
-
-Welcome to my GitHub space, where **data engineering** and **data analytics** come to life with the power of Azure! 🚀
+<p align="center"> 🌟 Welcome to my GitHub space, where **data engineering** and **data analytics** come to life with the power of Azure! 🚀
 
 This repository showcases a variety of projects that blend the technical expertise of **Azure Data Engineering** with the creativity of **Data Analytics**. Here, you'll find a collection of my work focused on:
 
@@ -63,8 +59,13 @@ Feel free to **fork**, **adapt**, or **contribute**. **Feedback** and **collabor
 - **Azure Data Lake Storage (ADLS)**
 - **Azure Databricks**
 - **Azure Synapse Analytics**
+- **Azure Key Vault**
+- **Azure Blob Storage**
+- **Azure SQL Database**
 - **Power BI**
+- **Microsoft Fabric**
 - **Python**
+- **SQL**
 
 ---
 
