@@ -1,48 +1,73 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f4872f11-5655-4108-8cd8-f24c54956621" width="1000">
-</p>
 <div align="center">
-    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />   <img width="12" /> -->
-  <img src = "https://www.visualintelligence.co.nz/wp-content/uploads/2020/05/kindpng_276791-2048x635.png" height="30" alt="qliksense logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
   <img width="12" />
-  <!-- <img src = "https://github.com/user-attachments/assets/68c8b62a-f8e4-4818-b73e-69452f20f791" height="30" alt="cognoslogo"  /> <img width="20" /> -->
-  <img src = "https://github.com/user-attachments/assets/78108662-094a-46fd-b160-e5157ca7a791" height="30" alt="ibm_cognos logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://github.com/gentallman/gentallman/assets/78334851/ea28777e-6adb-4c35-bc1b-f5fbbc4313a8" height="30" alt="PowerBI logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="SQL" />
   <img width="12" />
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/4/4d/Microsoft_Power_Automate.svg" height="30" alt="power_automate logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img width="12" />
-  <img src="https://github.com/gentallman/gentallman/assets/78334851/4be6b482-2b54-4b25-858d-1b5ea81f722e" height="30" alt="SQL logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
-  <img src="https://github.com/gentallman/gentallman/assets/78334851/a16a4762-8e28-44e1-931c-359979dad9f2" height="30" alt="Excel logo"  />
+  <img src="https://github.com/gentallman/gentallman/assets/78334851/ea28777e-6adb-4c35-bc1b-f5fbbc4313a8" height="40" alt="Power BI" />
   <img width="12" />
-  <img src="https://img.icons8.com/ios/50/FFFFFF/tableau-software.png" height="35" alt="Tableau logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
   <img width="12" />
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  /> <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img src="https://databricks.com/wp-content/uploads/2021/05/databricks-logo.png" height="40" alt="Databricks" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img src="https://img.icons8.com/ios/50/FFFFFF/tableau-software.png" height="40" alt="Tableau" />
   <img width="12" />
-  <img src="https://github.com/gentallman/gentallman/assets/78334851/844cbc14-e3c5-41bd-bc15-f1c33688d5a0" height="35" alt="GSuite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="Kaggle" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure Data Factory" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure Synapse Analytics" />
+  <img width="12" />
+  <img src="https://delta.io/images/delta-lake-logo.png" height="30" alt="Delta Lake" />
+  <img width="12" />
+  <img src="https://databricks.com/wp-content/uploads/2021/10/databricks-logo.png" height="30" alt="Azure Databricks" />
+  <img width="12" />
+  <img src="https://learn.microsoft.com/en-us/azure/architecture/icons/media/key-vault.svg" height="30" alt="Azure Key Vault" />
+  <img width="12" />
+  <img src="https://learn.microsoft.com/en-us/azure/architecture/icons/media/logic-apps.svg" height="30" alt="Azure Logic Apps" />
+  <img width="12" />
+  <img src="https://learn.microsoft.com/en-us/azure/architecture/icons/media/monitor.svg" height="30" alt="Azure Monitor" />
+  <img width="12" />
+  <img src="https://learn.microsoft.com/en-us/azure/architecture/icons/media/storage-data-lake.svg" height="30" alt="Azure Data Lake Storage" />
+  <img width="12" />
+  <img src="https://learn.microsoft.com/en-us/azure/architecture/icons/media/stream-analytics.svg" height="30" alt="Azure Stream Analytics" />
+  <img width="12" />
+  <img src="https://icons8.com/icon/38561/sql-server" height="30" alt="SSMS" />
+  <img width="12" />
+  <img src="https://learn.microsoft.com/en-us/azure/architecture/icons/media/sql-database.svg" height="30" alt="Azure SQL Database" />
+  <img width="12" />
+  <img src="https://learn.microsoft.com/en-us/azure/architecture/icons/media/event-hubs.svg" height="30" alt="Azure Event Hubs" />
+
 </div>
+
 
 <br>
 
-<p align="center"> 🌟 Welcome to my GitHub space — a dynamic blend of Azure Data Engineering and Data Analytics in action! 🚀 Here you'll find hands-on projects that showcase my ability to build end-to-end data solutions using tools like Azure Data Factory, Databricks, Data Lake Storage, Synapse Analytics, and Power BI. From crafting scalable data pipelines to transforming raw data into meaningful visualizations, my work demonstrates how modern cloud technologies can drive smarter decisions. I'm passionate about solving real-world data challenges, optimizing processes, and continuously exploring the limitless possibilities within the Microsoft Azure ecosystem — including Azure Key Vault, Blob Storage, SQL Database, and Microsoft Fabric. Whether you're a fellow data enthusiast or just curious, feel free to fork, adapt, or contribute — collaboration and feedback are always welcome. Let's connect and unlock the full potential of data, together! </p>
-  
+<p align="center">
+
+## Welcome Welcome Welcome! 🌟
+
 🌟 Welcome to my GitHub space, where **data engineering** and **data analytics** come to life with the power of Azure! 🚀
 
-This repository showcases a variety of projects that blend the technical expertise of **Azure Data Engineering** with the creativity of **Data Analytics**. Here, you'll find a collection of my work focused on:
+This repository showcases a variety of projects that blend the technical expertise of **Azure Data Engineering** with the creativity of **Data Analytics**. 
+Here, you'll find a collection of my work focused on:
 
-- **Transforming raw data into insightful visualizations** using tools like **Power BI** and **Azure Synapse Analytics**.
-- **Building robust data pipelines** leveraging **Azure Data Factory**, **Azure Databricks**, and **Azure Data Lake**.
-- **Optimizing data processes** to ensure scalable, efficient, and reliable data workflows across cloud environments.
+🔹**Transforming raw data into insightful visualizations** using tools like **Power BI** and **Azure Synapse Analytics**.
+
+🔹**Building robust data pipelines** leveraging **Azure Data Factory**, **Azure Databricks**, and **Azure Data Lake**.
+
+🔹**Optimizing data processes** to ensure scalable, efficient, and reliable data workflows across cloud environments.
 
 Whether you're passionate about **building scalable data solutions**, diving deep into **data analytics**, or exploring the capabilities of **Azure technologies**, this repository is your go-to space to explore and learn.
 
@@ -57,23 +82,20 @@ Feel free to **fork**, **adapt**, or **contribute**. **Feedback** and **collabor
 ---
 
 🚀 **Technologies Used**:
-- **Azure Data Factory (ADF)**
-- **Azure Data Lake Storage (ADLS)**
-- **Azure Databricks**
-- **Azure Synapse Analytics**
-- **Azure Key Vault**
-- **Azure Blob Storage**
-- **Azure SQL Database**
-- **Power BI**
-- **Microsoft Fabric**
-- **Python**
-- **SQL**
+||||
+|-----------------------------|-------------------------------|-------------------------------|
+| Azure Data Factory (ADF)    | Azure Databricks              | Python                        |
+| Azure Synapse Analytics     | Delta Lake                    | SQL                           |
+| Azure Data Lake Storage     | Apache Spark (via Databricks) | Power BI, Tableau             |
+| Azure Key Vault             | Medallion Architecture        | Pandas & Matplotlib           |
+| Azure Monitor               | Unity Catalog                 | Visual Studio Code            |
+| Azure Blob Storage          | Azure Stream Analytics        | SSMS, OnPrem                  |
+| Azure SQL Database          | Azure Event Hubs              | Jupyter Notebook              |
 
 ---
 
-### Let's Connect! 💬
-If you're interested in collaborating, have feedback, or simply want to connect, feel free to reach out! Together, we can explore the exciting world of data engineering and analytics.</p>  
-
+### Let's Connect! 💬 
+Feel free to **fork**, **adapt**, or **contribute** to any of these projects.  **Feedback and collaboration are always welcome!** 🙌
 <br>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=gentallman&icon=3&color=7)](https://visitcount.itsvg.in) -->
