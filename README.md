@@ -34,7 +34,9 @@
 
 <br>
 
-<p align="center"> # Welcome to My GitHub Playground! 🌟
+<p align="center"> 
+  
+## Welcome to My GitHub Playground! 🌟
 
 Welcome to my GitHub space, where **data engineering** and **data analytics** come to life with the power of Azure! 🚀
 
