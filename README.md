@@ -1,3 +1,5 @@
+
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
   <img width="12" />
@@ -11,7 +13,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
-  <img src="https://github.com/gentallman/gentallman/assets/78334851/ea28777e-6adb-4c35-bc1b-f5fbbc4313a8" height="40" alt="Power BI" />
+  <img src="data/New_Power_BI_Logo.svg.png" height="40" alt="Power BI" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
   <img width="12" />
@@ -19,38 +21,34 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook" />
   <img width="12" />
-  <img src="https://databricks.com/wp-content/uploads/2021/05/databricks-logo.png" height="40" alt="Databricks" />
+  <img src="data/databricks.png" height="40" alt="Databricks" />
   <img width="12" />
-  <img src="https://img.icons8.com/ios/50/FFFFFF/tableau-software.png" height="40" alt="Tableau" />
+  <img src="data/1200px-Tableau_Logo.png" height="40" alt="Tableau" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="Kaggle" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure Data Factory" />
+  <img src="data/Azure Data Factory.png" height="30" alt="Azure Data Factory" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure Synapse Analytics" />
+  <img src="data/Azure Synapse Analytics.png" height="30" alt="Azure Synapse Analytics" />
   <img width="12" />
-  <img src="https://delta.io/images/delta-lake-logo.png" height="30" alt="Delta Lake" />
+  <img src="data/DL-stacked-RGB-200px.png" height="30" alt="Delta Lake" />
   <img width="12" />
-  <img src="https://databricks.com/wp-content/uploads/2021/10/databricks-logo.png" height="30" alt="Azure Databricks" />
+  <img src="data/Azure Databricks.png" height="30" alt="Azure Databricks" />
   <img width="12" />
-  <img src="https://learn.microsoft.com/en-us/azure/architecture/icons/media/key-vault.svg" height="30" alt="Azure Key Vault" />
+  <img src="data/key vault.jpeg" height="30" alt="Azure Key Vault" />
   <img width="12" />
-  <img src="https://learn.microsoft.com/en-us/azure/architecture/icons/media/logic-apps.svg" height="30" alt="Azure Logic Apps" />
+  <img src="data/monitor.png" height="30" alt="Azure Monitor" />
   <img width="12" />
-  <img src="https://learn.microsoft.com/en-us/azure/architecture/icons/media/monitor.svg" height="30" alt="Azure Monitor" />
+  <img src="data/Azure Data Lake Storage.png" height="30" alt="Azure Data Lake Storage" />
   <img width="12" />
-  <img src="https://learn.microsoft.com/en-us/azure/architecture/icons/media/storage-data-lake.svg" height="30" alt="Azure Data Lake Storage" />
+  <img src="data/stream-analytics.png" height="30" alt="Azure Stream Analytics" />
   <img width="12" />
-  <img src="https://learn.microsoft.com/en-us/azure/architecture/icons/media/stream-analytics.svg" height="30" alt="Azure Stream Analytics" />
+  <img src="data/icons8-microsoft-sql-server-144.png" height="30" alt="SSMS" />
   <img width="12" />
-  <img src="https://icons8.com/icon/38561/sql-server" height="30" alt="SSMS" />
+  <img src="data/Azure SQL Database.png" height="30" alt="Azure SQL Database" />
   <img width="12" />
-  <img src="https://learn.microsoft.com/en-us/azure/architecture/icons/media/sql-database.svg" height="30" alt="Azure SQL Database" />
-  <img width="12" />
-  <img src="https://learn.microsoft.com/en-us/azure/architecture/icons/media/event-hubs.svg" height="30" alt="Azure Event Hubs" />
-
+  <img src="data/event-hubs.png" height="30" alt="Azure Event Hubs" />
 </div>
-
 
 <br>
 
